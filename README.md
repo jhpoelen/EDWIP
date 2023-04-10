@@ -1,3 +1,7 @@
+:warning: This repository has been archives and is deprecated. :warning:
+
+Please see https://github.com/taddallas/EDWIP instead. 
+
 Raw EDWIP data. 
 
 
